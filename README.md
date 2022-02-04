@@ -9,7 +9,7 @@
 Ваше число долі: 2
 
 
-Щоб дізнатися яке в нього значення натисніть [сюди!](https://sergeiyurev.com/chislo-sudby-v-numerologii/)
+Щоб дізнатися яке у вас значення числа долі [натисніть сюди!](https://sergeiyurev.com/chislo-sudby-v-numerologii/)
 
 TestResult.java
 <img src="https://github.com/ppc-ntu-khpi/java-methods-23Phantom23/blob/master/1.png" width="100%"/>
