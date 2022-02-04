@@ -1,12 +1,14 @@
 //package test;
-
 //import domain.Exercise;
+import java.util.Scanner;
 
 public class TestResult {
 
     public static void main(String[] args) {
-
-        int R=10;
-        System.out.println("Area of a circle for R="+R+"m is "+Exercise.Calculate(R)+"m"+'\u00B2');
+        Scanner in = new Scanner(System.in); 
+        System.out.print("Введіть дату народження(dd.mm.yyyy): ");
+        String strDate = in.nextLine();
+        in.close();
+        System.out.println("Ваше число судьби: "+Exercise.Calculate(strDate));
     }
 }
