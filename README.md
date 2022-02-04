@@ -13,9 +13,11 @@
 
 -----------
 **TestResult.java**
+
 Запитуємо коли у вас день народження та потім виводимо ваше число долі.
 <img src="https://github.com/ppc-ntu-khpi/java-methods-23Phantom23/blob/master/1.png" width="100%"/>
 **Exercise.java**
+
 Спочатку видаляємо всі "." та ",". Після чого ми перетворюємо string в int та додаємо всі цифри, якщо залишається ще 2 цифри то ми додаємо і їх та повертаємо дане число. 
 <img src="https://github.com/ppc-ntu-khpi/java-methods-23Phantom23/blob/master/2.png" width="100%"/>
 
